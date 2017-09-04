@@ -48,3 +48,5 @@ build_android:
   artifacts:
     paths:
       - platforms/android/build/outputs/apk/
+
+
